@@ -9,6 +9,8 @@ Digital scams—ranging from fake "Remote Data Entry" jobs to "Crypto Honeypots"
 ## Project Description
 **Scam No Jutsu** is an AI-powered "Ninja" scam detector. It uses the power of Google Gemini to strip away the "Gen-Jutsu" (illusions) of scammers. 
 
+**As our Free API expired, Image generation is not possible right now. It will be patched in future updation**
+
 **Key Features:**
 - **The Scroll of Truth:** Paste any suspicious text, link, or job offer. The AI provides a **Trust Meter**, a direct analysis in English (**The Tea**), and a simplified "Bro-to-Bro" explanation in **Malayalam**.
 - **Scam Diagrams:** Visualizes complex scam workflows (like "Money Mules" or "Rug Pulls") using AI-generated diagrams to help users understand the trap.
