@@ -29,15 +29,17 @@ AI is the core engine of Scam No Jutsu.
 
 ### Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
-- [AI Proof - Gemini API Integration](./proof/ai_proof.png)
+- [AI Proof - Gemini API Integration](https://drive.google.com/file/d/124lIGKrGBElhZRa_b9G3cCQx0qgKvdBa/view?usp=drive_link)
 
 ## Screenshots
 Add project screenshots:
-- [Screenshot1 - Main Dashboard](./screenshots/dashboard.png)
-- [Screenshot2 - Malayalam Analysis](./screenshots/analysis.png)
+- [Screenshot1 - Main Dashboard](https://drive.google.com/file/d/1ZJ002OU-R1STVi7XNEoC25xEp4aLjrIW/view?usp=drive_link)
+- [Screenshot 2 - Safe Link](https://drive.google.com/file/d/1TKbB2PBZZz-bo6W-Yd6ZyiRFGNQEe0us/view?usp=sharing)
+- [Screenshot 3 - Malicious Link](https://drive.google.com/file/d/1jedDQrL8iZd7Du8K-0YEROF78bC-bKv3/view?usp=sharing)
+- [Screenshot 4 - Resources](https://drive.google.com/file/d/19DG8dwOAAf59QRkn2UANdhnHkKC9kZIV/view?usp=sharing)
 
 ## Demo Video
-Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). [Watch Demo](https://drive.google.com/file/d/your-demo-link/view)
+Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). [Watch Demo](https://drive.google.com/file/d/1jedDQrL8iZd7Du8K-0YEROF78bC-bKv3/view?usp=sharing)
 
 ## Installation Steps
 ```bash
