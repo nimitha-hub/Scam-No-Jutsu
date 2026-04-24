@@ -41,7 +41,7 @@ Add project screenshots:
 - [Screenshot 4 - Resources](https://drive.google.com/file/d/19DG8dwOAAf59QRkn2UANdhnHkKC9kZIV/view?usp=sharing)
 
 ## Demo Video
-Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). [Watch Demo](https://drive.google.com/file/d/1jedDQrL8iZd7Du8K-0YEROF78bC-bKv3/view?usp=sharing)
+Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). [Watch Demo](https://drive.google.com/file/d/1Mt2HK89JjrSqBamp5vUMyV_Rab-4c144/view?usp=drive_link)
 
 ## Installation Steps
 ```bash
